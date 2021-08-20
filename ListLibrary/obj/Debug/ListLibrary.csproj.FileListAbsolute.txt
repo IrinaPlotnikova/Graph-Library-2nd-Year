@@ -1,0 +1,12 @@
+C:\Users\Ирина Плотникова\source\repos\ListLibrary\obj\Debug\ListLibrary.csprojAssemblyReference.cache
+C:\Users\Ирина Плотникова\source\repos\ListLibrary\obj\Debug\ListLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ирина Плотникова\source\repos\ListLibrary\bin\Debug\ListLibrary.dll
+C:\Users\Ирина Плотникова\source\repos\ListLibrary\bin\Debug\ListLibrary.pdb
+C:\Users\Ирина Плотникова\source\repos\ListLibrary\obj\Debug\ListLibrary.dll
+C:\Users\Ирина Плотникова\source\repos\ListLibrary\obj\Debug\ListLibrary.pdb
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\1\ListLibrary\bin\Debug\ListLibrary.dll
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\1\ListLibrary\bin\Debug\ListLibrary.pdb
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\1\ListLibrary\obj\Debug\ListLibrary.csproj.CoreCompileInputs.cache
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\1\ListLibrary\obj\Debug\ListLibrary.dll
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\1\ListLibrary\obj\Debug\ListLibrary.pdb
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\1\ListLibrary\obj\Debug\ListLibrary.csprojAssemblyReference.cache
